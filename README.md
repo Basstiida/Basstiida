@@ -13,7 +13,7 @@
 
 ### 🛠️ Tecnologías
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,py,nodejs" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,py,nodejs,cs,cpp,java,dotnet,dart,flutter" alt="Tecnologías" />
 </p>
 
 ### 📊 Estadísticas de GitHub
