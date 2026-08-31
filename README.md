@@ -18,7 +18,7 @@
 </td>
 <td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="250" alt="Coding gif" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" alt="Coding gif" />
 
 </td>
 </tr>
@@ -50,7 +50,7 @@
 
 **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" height="48" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="28" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="28" />
 </p>
