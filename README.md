@@ -6,15 +6,58 @@
   </a>
 </p>
 
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
 ### 🧑‍💻 About Me
 - 💻 Software Developer
 - 🌱 Constantly learning and improving my skills
 - 📫 Feel free to reach out through my socials
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,py,nodejs,cs,cpp,java,dotnet,dart,flutter" alt="Tech Stack" />
+</td>
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="250" alt="Coding gif" />
+
+</td>
+</tr>
+</table>
+
+### 🛠️ What I Work With
+
+<table align="center">
+<tr>
+<td width="50%" valign="top" align="center">
+
+**Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,py,cs,cpp,java,dart,html,css" alt="Programming Languages" />
 </p>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**Tools & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,dotnet,flutter" alt="Tools & Frameworks" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="48" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="28" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="28" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -30,10 +73,10 @@
 <p align="center">
   <a href="https://github.com/Basstiida">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg"></picture></a>
   <a href="https://www.linkedin.com/in/jorgebasstiida/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"></a>
   <a href="#">
     <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram"></a>
   <a href="#">
@@ -41,5 +84,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
       <img alt="X" title="X (Twitter)" height="48" width="48" src="https://cdn.simpleicons.org/x"></picture></a>
   <a href="mailto:rios.jorge.sec280@gmail.com">
-    <img alt="Gmail" title="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/gmail"></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg">
+      <img alt="Gmail" title="Gmail" height="48" width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg"></picture></a>
 </p>
