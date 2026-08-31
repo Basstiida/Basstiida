@@ -1,23 +1,23 @@
-<h1 align="center">Hola, soy Basstiida 👋</h1>
+<h1 align="center">Hi, I'm Basstiida 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=440&height=60&lines=Desarrollador+de+software;Aprendiendo+cada+d%C3%ADa+algo+nuevo;Bienvenido+a+mi+perfil+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=440&height=60&lines=Web+%26+Software+Developer+%F0%9F%92%BB%F0%9F%8C%90;Passionate+about+Coding+%E2%9D%A4%EF%B8%8F;Mexican+Developer+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
   </a>
 </p>
 
-### 🧑‍💻 Sobre mí
-- 💻 Desarrollador/a de software
-- 🌱 Aprendiendo y mejorando mis habilidades constantemente
-- 📫 Puedes contactarme a través de mis redes
+### 🧑‍💻 About Me
+- 💻 Software Developer
+- 🌱 Constantly learning and improving my skills
+- 📫 Feel free to reach out through my socials
 
-### 🛠️ Tecnologías
+### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,py,nodejs,cs,cpp,java,dotnet,dart,flutter" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,py,nodejs,cs,cpp,java,dotnet,dart,flutter" alt="Tech Stack" />
 </p>
 
-### 📊 Estadísticas de GitHub
-<p align="left">
+### 📊 GitHub Stats
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Basstiida&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basstiida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
@@ -26,8 +26,8 @@
   <img src="https://streak-stats.demolab.com/?user=Basstiida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 🌐 Redes
-<p align="left">
+### 🌐 Connect with Me
+<p align="center">
   <a href="https://github.com/Basstiida">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
