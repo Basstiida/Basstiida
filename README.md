@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basstiida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Basstiida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🌐 Redes
@@ -33,11 +33,13 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://www.linkedin.com/in/jorgebasstiida/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+    <img alt="LinkedIn" title="LinkedIn" height="48" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#">
     <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram"></a>
   <a href="#">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
       <img alt="X" title="X (Twitter)" height="48" width="48" src="https://cdn.simpleicons.org/x"></picture></a>
+  <a href="mailto:rios.jorge.sec280@gmail.com">
+    <img alt="Gmail" title="Gmail" height="48" width="48" src="https://cdn.simpleicons.org/gmail"></a>
 </p>
