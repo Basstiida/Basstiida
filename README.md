@@ -9,7 +9,7 @@
 ### 🧑‍💻 Sobre mí
 - 💻 Desarrollador/a de software
 - 🌱 Aprendiendo y mejorando mis habilidades constantemente
-- 📫 Puedes contactarme a través de mis redes (agrega tus enlaces abajo)
+- 📫 Puedes contactarme a través de mis redes
 
 ### 🛠️ Tecnologías
 <p align="left">
@@ -28,7 +28,16 @@
 
 ### 🌐 Redes
 <p align="left">
-  <!-- Reemplaza estos enlaces con tus propias redes -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Basstiida">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+  <a href="https://www.linkedin.com/in/jorgebasstiida/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+  <a href="#">
+    <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram"></a>
+  <a href="#">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
+      <img alt="X" title="X (Twitter)" height="48" width="48" src="https://cdn.simpleicons.org/x"></picture></a>
 </p>
