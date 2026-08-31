@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Basstiida&label=Profile%20views&color=00FF41&style=flat" />
+</p>
+
 <table align="center">
 <tr>
 <td width="55%" valign="top">
@@ -70,11 +74,6 @@
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Basstiida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img alt="GitHub contribution graph" src="https://ghchart.rshah.org/00FF41/Basstiida" />
 </p>
 
 ### 🌐 Connect with Me
