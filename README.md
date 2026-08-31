@@ -11,8 +11,11 @@
 <td width="55%" valign="top">
 
 ### 🧑‍💻 About Me
+- 🎓 Computer Engineer
+- 🏫 Graduate of Instituto Politécnico Nacional
+- 📍 Based in Mexico City
+- 🎂 22 years old
 - 💻 Software Developer
-- 🌱 Constantly learning and improving my skills
 - 📫 Feel free to reach out through my socials
 
 </td>
@@ -67,6 +70,14 @@
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Basstiida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Basstiida/Basstiida/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Basstiida/Basstiida/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ### 🌐 Connect with Me
