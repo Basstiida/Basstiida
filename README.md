@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=440&height=60&lines=Web+%26+Software+Developer+%F0%9F%92%BB%F0%9F%8C%90;Passionate+about+Coding+%E2%9D%A4%EF%B8%8F;Mexican+Developer+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00B2DF&background=000000&center=true&vCenter=true&width=440&height=60&lines=Web+%26+Software+Developer+%F0%9F%92%BB%F0%9F%8C%90;Passionate+about+Coding+%E2%9D%A4%EF%B8%8F;Mexican+Developer+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Basstiida&label=Profile%20views&color=00FF41&style=flat" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Basstiida&label=Profile%20views&color=00B2DF&style=flat" />
 </p>
 
 <table align="center">
@@ -72,7 +72,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basstiida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Basstiida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
