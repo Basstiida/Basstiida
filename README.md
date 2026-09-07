@@ -47,7 +47,7 @@
 
 **Tools & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,nodejs,dotnet,flutter,django,docker,aws,linux,postman" alt="Tools & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,nodejs,dotnet,flutter,django,docker,aws,linux,postman&perline=7" alt="Tools & Frameworks" />
 </p>
 
 </td>
