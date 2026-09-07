@@ -48,11 +48,6 @@
 **Tools & Frameworks**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,nodejs,dotnet,flutter,django,docker,aws,linux,postman" alt="Tools & Frameworks" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/ffffff">
-    <img alt="Cursor" title="Cursor" height="48" width="48" src="https://cdn.simpleicons.org/cursor/000000">
-  </picture>
-  <img src="https://cdn.simpleicons.org/yolo" alt="YOLO" height="48" width="48" />
 </p>
 
 </td>
